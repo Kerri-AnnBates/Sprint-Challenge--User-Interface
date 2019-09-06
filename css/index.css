@@ -221,4 +221,11 @@ footer nav a {
 
 .about-blocks-child {
     width: 45%;
+    margin-bottom: 20px;
+}
+
+.about-blocks {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
