@@ -64,14 +64,14 @@ p {
     margin: 0 auto;
 }
 
-header {
+.header-container {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
     padding: 40px;
 }
 
-header img {
+.main-logo {
     width: 20%;
 }
 
