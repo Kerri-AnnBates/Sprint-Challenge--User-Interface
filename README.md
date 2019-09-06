@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+I would say this: Semantic HTML is a set of tags that you include in your HTML structure to make your code more meaningful. It makes it easier for other developers to read your code and understand what each section of your code means without any confusion. It also helps SEO and screen readers understand the structure of you website easily.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Display block means that the element will take up the full width of a page by default and elements will stack one after the other. While setting display to inline-block, allows the element to act as an inline element and a block element. Where the inline element's width contains itself and can be placed side by side with other elements, but also acts as a block element where the width can stretch the full width of a page.
 
 3. What are the 4 areas of the box model?
 
+The four areas of the box model include: padding, margin, border, content.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+```align-items``` property works on the cross axis.
+
 5. Explain why git is valuable to a team of developers.
+
+Git is valuable because it allows multiple developers to work on a project at the same time. It allows for each developer to work on their own part of a project and save changes in a point in time. This is important because it helps keep track of the progress of a project easily, allowing one to see who makes what changes. You can work on your own version of the project, adding features or debugging the project without affecting the original code, preventing any major problems.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
