@@ -70,11 +70,12 @@ header {
 
 header .container {
     display: flex;
+    justify-content: space-between;
     align-items: flex-end;
 }
 
 header img {
-    width: 30%;
+    width: 20%;
 }
 
 header nav {
